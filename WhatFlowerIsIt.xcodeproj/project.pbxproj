@@ -14,6 +14,7 @@
 		9953EE97286D093C008EE6A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9953EE95286D093C008EE6A3 /* Main.storyboard */; };
 		9953EE99286D093C008EE6A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9953EE98286D093C008EE6A3 /* Assets.xcassets */; };
 		9953EE9C286D093C008EE6A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9953EE9A286D093C008EE6A3 /* LaunchScreen.storyboard */; };
+		9974FF2C2874C0740012CBA3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9974FF2B2874C0740012CBA3 /* README.md */; };
 		99EDC6C0286FDD2E008543BE /* FlowerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EDC6BF286FDD2E008543BE /* FlowerData.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		9953EE98286D093C008EE6A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9953EE9B286D093C008EE6A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9953EE9D286D093C008EE6A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9974FF2B2874C0740012CBA3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		99EDC6BF286FDD2E008543BE /* FlowerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -44,6 +46,7 @@
 		9953EE83286D093C008EE6A3 = {
 			isa = PBXGroup;
 			children = (
+				9974FF2B2874C0740012CBA3 /* README.md */,
 				9953EE8E286D093C008EE6A3 /* WhatFlowerIsIt */,
 				9953EE8D286D093C008EE6A3 /* Products */,
 			);
@@ -141,6 +144,7 @@
 			files = (
 				9953EE9C286D093C008EE6A3 /* LaunchScreen.storyboard in Resources */,
 				9953EE99286D093C008EE6A3 /* Assets.xcassets in Resources */,
+				9974FF2C2874C0740012CBA3 /* README.md in Resources */,
 				9953EE97286D093C008EE6A3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
